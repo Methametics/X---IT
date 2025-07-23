@@ -22,7 +22,7 @@ Die Zuordnung erfolgt rein durch Beobachtung.
 
 Führe mehrere Zweier-Vergleiche durch, bis du dir sicher bist, welcher Körper der schnellste, welcher der langsamste und welcher der mittlere ist.
 
-#### 3. **Die Analyse **
+#### 3. **Die Analyse**
 
 Du hast nun eine Reihenfolge im Kopf. Schau dir die Geschwindigkeits- und Beschleunigungskurven in den Diagrammen A und B an. Jede Linie gehört zu genau einem der drei Körper.
 Lies dir die Frage sorgfältig durch. Für jeden Hinweis kannst du aus dem passenden Diagramm einen bestimmten Zahlenwert von der Y-Achse ablesen.
