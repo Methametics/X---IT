@@ -17,15 +17,6 @@ Am Ende ergibt sich ein vierstelliger **Zahlencode**, den du durch die richtige 
 
 ---
 
-##  Beobachte die Körper genau
-
-Führe mehrere Zweier-Vergleiche durch und achte auf:
-
-- Welcher Körper ist am schnellsten im Ziel?
-- Welcher rollt am langsamsten?
-- Welcher rollt gleichmäßig oder besonders ruhig?
-
-Am Ende solltest du dir eine Rangfolge notieren:
 
 ###  Hinweis 1: zu den Farben der Linien
 
