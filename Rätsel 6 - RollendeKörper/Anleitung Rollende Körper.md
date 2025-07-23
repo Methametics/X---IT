@@ -1,6 +1,5 @@
 # Rätselanleitung: Rollende Körper
 
----
 ### Physikalische Idee (für Lehrkräfte / Betreuende)
 
 Die Kernidee des Rätsels beruht auf dem physikalischen Phänomen, dass verschiedene starre Körper mit gleicher Masse und gleichem Radius, aber unterschiedlicher Massenverteilung (und somit unterschiedlichem Trägheitsmoment), unterschiedlich schnell eine geneigte Ebene hinunterrollen, wenn sie aus der gleichen Höhe starten. Körper, deren Masse stärker am Zentrum konzentriert ist (kleineres Trägheitsmoment), rollen schneller als Körper, deren Masse stärker am äußeren Rand verteilt ist (größeres Trägheitsmoment).
