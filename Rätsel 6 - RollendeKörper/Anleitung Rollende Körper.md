@@ -1,5 +1,4 @@
 # Rätselanleitung: Rollende Körper
-Das Rätsel veranschaulicht auf spielerische Weise ein zentrales Prinzip der klassischen Mechanik: das Trägheitsmoment.
 
 ---
 ### Physikalische Idee (für Lehrkräfte / Betreuende)
