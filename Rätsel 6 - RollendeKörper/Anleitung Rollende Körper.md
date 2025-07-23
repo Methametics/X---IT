@@ -25,7 +25,7 @@ Führe mehrere Zweier-Vergleiche durch, bis du dir sicher bist, welcher Körper 
 #### 3. **Die Analyse**
 
 Du hast nun eine Reihenfolge im Kopf. Schau dir die Geschwindigkeits- und Beschleunigungskurven in den Diagrammen A und B an. Jede Linie gehört zu genau einem der drei Körper.
-Lies dir die Frage sorgfältig durch. Für jeden Hinweis kannst du aus dem passenden Diagramm einen bestimmten Zahlenwert von der Y-Achse ablesen.
+Lies dir die Frage sorgfältig durch. Für jeden Fragestellung kannst du aus dem passenden Diagramm einen bestimmten Zahlenwert von der Y-Achse ablesen.
 
 Schreibe diese Ziffern auf  in der richtigen Reihenfolge.
 Die Kombination ergibt am Ende den gesuchten Zahlencode.
