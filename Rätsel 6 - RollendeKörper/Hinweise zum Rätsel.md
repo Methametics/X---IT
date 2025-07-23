@@ -43,7 +43,8 @@ Die Farben der Linien sind **innerhalb der Diagramme konsistent**:
 
 → Schau dir alle Beschleunigungswerte an.  
 → Streiche alle Primzahlen.  
-(Eine **Primzahl** ist eine Zahl, die **nur durch 1 und sich selbst** teilbar ist.  Beispiele für Primzahlen: **2, 3, 5, 7, 11, 13**)
+(Eine **Primzahl** ist eine Zahl, die **nur durch 1 und sich selbst** teilbar ist.)
+
 → Der kleinste verbleibende Wert gehört zum langsamsten Körper.
 
 
