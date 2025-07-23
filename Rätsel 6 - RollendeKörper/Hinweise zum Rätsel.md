@@ -23,7 +23,6 @@ Führe mehrere Zweier-Vergleiche durch und achte auf:
 
 - Welcher Körper ist am schnellsten im Ziel?
 - Welcher rollt am langsamsten?
-- Gibt es einen, der „ruckelt“ oder instabil läuft?
 - Welcher rollt gleichmäßig oder besonders ruhig?
 
 Am Ende solltest du dir eine Rangfolge notieren:
