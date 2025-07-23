@@ -1,5 +1,13 @@
 # Rätselanleitung: Rollende Körper
 
+### 🧠 Physikalische Idee (für Lehrkräfte / Betreuende)
+
+Die Kernidee des Rätsels beruht auf dem physikalischen Phänomen, dass verschiedene starre Körper mit gleicher Masse und gleichem Radius, aber unterschiedlicher Massenverteilung (und somit unterschiedlichem Trägheitsmoment), unterschiedlich schnell eine geneigte Ebene hinunterrollen, wenn sie aus der gleichen Höhe starten. Körper, deren Masse stärker am Zentrum konzentriert ist (kleineres Trägheitsmoment), rollen schneller als Körper, deren Masse stärker am äußeren Rand verteilt ist (größeres Trägheitsmoment).
+
+Dazu erhalten die Spieler nach dem Rollversuch ein vorbereitetes Arbeitsblatt mit schematischen \( v(t) \)- und \( a(t) \)-Diagrammen. Ziel ist es, die korrekte Zuordnung zwischen den Körpern und den dargestellten Bewegungsverläufen vorzunehmen. Die Diagramme sind so gestaltet, dass sie unterschiedliche Steigungen aufweisen, die mit dem Beschleunigungs- und Geschwindigkeitsverhalten von Körpern mit verschiedenem Trägheitsmoment konsistent sind.
+
+---
+
 ### Ziel des Rätsels
 
 Ordne die drei unterschiedlich gebaute Zylinder (Vollzylinder, Hohlzylinder, mehreckiger Zylinder) anhand ihrer Bewegungsmerkmale korrekt den vorgegebenen Bewegungsverläufen in den Geschwindigkeits- und Beschleunigungsdiagrammen zu. 
