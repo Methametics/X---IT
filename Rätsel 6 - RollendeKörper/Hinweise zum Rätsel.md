@@ -55,7 +55,6 @@ Die Farben der Linien sind **innerhalb der Diagramme konsistent**:
 → Wenn beispielsweise der langsamste Körper z. B. eine Beschleunigung von 3 hat,  
 → dann hat der schnellste Körper eine Endgeschwindigkeit von 10.
 
-→ Finde in Diagramm B die Kurve mit diesem Wert!
 
 
 
