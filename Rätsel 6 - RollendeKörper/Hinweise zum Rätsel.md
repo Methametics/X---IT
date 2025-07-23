@@ -28,7 +28,7 @@ Führe mehrere Zweier-Vergleiche durch und achte auf:
 
 Am Ende solltest du dir eine Rangfolge notieren:
 
-##  Hinweis 1: zu den Farben der Linien
+###  Hinweis 1: zu den Farben der Linien
 
 Die Farben der Linien sind **innerhalb der Diagramme konsistent**:
 
@@ -55,7 +55,7 @@ Die Farben der Linien sind **innerhalb der Diagramme konsistent**:
 
 → Finde in Diagramm B die Kurve mit diesem Wert!
 
----
+
 
 ###  Hinweis 4:  – Mittlerer Körper:
 
