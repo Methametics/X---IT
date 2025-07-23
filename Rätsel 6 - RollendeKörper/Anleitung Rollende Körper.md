@@ -1,12 +1,12 @@
 # Rätselanleitung: Rollende Körper
-Dieses Rätsel zeigt spielerisch ein zentrales Konzept der klassischen Mechanik: das Trägheitsmoment.
+Das Rätsel veranschaulicht auf spielerische Weise ein zentrales Prinzip der klassischen Mechanik: das Trägheitsmoment.
 
 ---
 ### Physikalische Idee (für Lehrkräfte / Betreuende)
 
 Die Kernidee des Rätsels beruht auf dem physikalischen Phänomen, dass verschiedene starre Körper mit gleicher Masse und gleichem Radius, aber unterschiedlicher Massenverteilung (und somit unterschiedlichem Trägheitsmoment), unterschiedlich schnell eine geneigte Ebene hinunterrollen, wenn sie aus der gleichen Höhe starten. Körper, deren Masse stärker am Zentrum konzentriert ist (kleineres Trägheitsmoment), rollen schneller als Körper, deren Masse stärker am äußeren Rand verteilt ist (größeres Trägheitsmoment).
 
-Dazu erhalten die Spieler nach dem Rollversuch ein vorbereitetes Arbeitsblatt mit schematischen \( v(t) \)- und \( a(t) \)-Diagrammen. Ziel ist es, die korrekte Zuordnung zwischen den Körpern und den dargestellten Bewegungsverläufen vorzunehmen. Die Diagramme sind so gestaltet, dass sie unterschiedliche Steigungen aufweisen, die mit dem Beschleunigungs- und Geschwindigkeitsverhalten von Körpern mit verschiedenem Trägheitsmoment konsistent sind.
+Dazu erhalten die Spieler nach dem Rollversuch ein vorbereitetes Arbeitsblatt mit schematischen Geschwindigkeits- und Beschleunigungsdiagrammen. Ziel ist es, die korrekte Zuordnung zwischen den Körpern und den dargestellten Bewegungsverläufen vorzunehmen. Die Diagramme sind so gestaltet, dass sie unterschiedliche Steigungen aufweisen, die mit dem Beschleunigungs- und Geschwindigkeitsverhalten von Körpern mit verschiedenem Trägheitsmoment konsistent sind.
 
 ---
 
