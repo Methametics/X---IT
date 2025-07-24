@@ -93,10 +93,7 @@ MINT-Rätselbox/
 
 
 ## 📢 Mitmachen & Lizenz
-Die Box ist Open Source. Wir freuen uns, wenn andere Gruppen, Lehrkräfte oder Maker:innen die Rätsel weiterentwickeln oder neue hinzufügen.
-
-(Lizenz siehe `LICENSE`)
-
+Die Box ist Open Source. Wir freuen uns, wenn andere Gruppen, Lehrkräfte oder Maker*innen die Rätsel weiterentwickeln oder neue hinzufügen.
 
 ---
 
@@ -195,7 +192,6 @@ See top-level structure above.
 
 ## 📢 Contribute
 We welcome forks, remixes and feedback!
-Open source under [insert license here].
 
 
 ---
