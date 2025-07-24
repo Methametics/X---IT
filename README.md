@@ -7,7 +7,7 @@
 ## 🎓 Einleitung
 
 Willkommen in der Welt der MINT-Rätsel!  
-Diese Box ist Teil eines Projekts im Kurs *Wissenschaftskommunikation im MINT-Bereich* und richtet sich an Studienanfänger:innen technischer und naturwissenschaftlicher Studiengänge. Unser Ziel war es, klassische mechanische und mathematische Konzepte durch interaktive, spannende und gemeinschaftlich lösbare Rätsel erlebbar zu machen.
+Diese Box ist Teil eines Projekts im Kurs *Wissenschaftskommunikation im MINT-Bereich* und richtet sich an Studienanfänger\*innen technischer und naturwissenschaftlicher Studiengänge. Unser Ziel war es, klassische mechanische und mathematische Konzepte durch interaktive, spannende und gemeinschaftlich lösbare Rätsel erlebbar zu machen.
 
 Die Box kann im Rahmen von Einführungsveranstaltungen, MINT-Workshops oder außerschulischen Lernorten eingesetzt werden – überall dort, wo Neugier und Kreativität geweckt werden sollen.
 
@@ -16,8 +16,8 @@ Die Box kann im Rahmen von Einführungsveranstaltungen, MINT-Workshops oder auß
 ## 🎯 Zielgruppe
 
 - Erstsemester aus dem MINT-Bereich
-- Lehrende und Tutor:innen in MINT-Fächern
-- Wissenschaftskommunikator:innen und Maker:innen
+- Lehrende und Tutor*innen in MINT-Fächern
+- Wissenschaftskommunikator*innen und Maker*innen
 - Alle Neugierigen, die Mechanik, Mathematik, Informatik und Physik spielerisch erkunden wollen
 
 ---
@@ -41,7 +41,7 @@ Dabei führt eine Story durch alle Stationen und sorgt für Immersion und Humor.
 - **Informatik** (Binärsystem, Logikgatter, Programmierlogik)
 - **Mathematik** (Fakultät, Zahlensysteme)
 - **Physik** (Pendelgesetze, Trägheitsmoment, Schwingungen)
-- **Technische Mechanik** (Fachwerke, Kräfteverteilung)
+- **Technische Mechanik** (Fachwerke, Kräfteverteilung, Kinetik und Kinematik)
 - **Ingenieurwesen** (Uhrwerke, Schwungmassen, Escapements)
 
 ---
@@ -54,7 +54,6 @@ Die vollständige Dokumentation besteht aus:
 - **Spielstory mit Karten für alle Rätsel**
 - **Gesamtlösungsblatt und Feedbackbogen**
 - **Checkliste aller Materialien**
-- **Barrierearme Versionen** (z. B. einfache Sprache, Audio, kontrastreiche Drucke)
 
 Jedes Rätsel ist in einem eigenen Ordner organisiert und enthält:
 
@@ -66,7 +65,7 @@ Jedes Rätsel ist in einem eigenen Ordner organisiert und enthält:
 
 ## ♿️ Barrierefreiheit & Gendergerechtigkeit
 
-Wir haben versucht **barrierefreie Spielbarkeit** umzusetzen, doch momentan können wir noch keine vollständig barriefreie Erfahrung bieten. Wir haben eine möglichst **klare Struktur** umgesetzt und alle Karten mit **hohem Kontrast** designed und in **verständlicher Sprache* geschrieben.
+Wir haben versucht **barrierefreie Spielbarkeit** umzusetzen, doch momentan können wir noch keine vollständig barriefreie Erfahrung bieten. Wir haben eine möglichst **klare Struktur** umgesetzt und alle Karten mit **hohem Kontrast** designed und in **verständlicher Sprache** geschrieben.
 
 Außerdem haben wir auf die Verwendung von **geschlechtergerechter Sprache** und heben **FLINTA*-Personen** aus der Wissenschaftsgeschichte explizit hervor.
 
