@@ -1,4 +1,4 @@
-# 🧩 MINT-Rätselbox: Wissenschaft spielerisch begreifen
+# 🧩 MINT-Rätselbox: X-IT – Unlock the Box
 
 **English version below.**
 
