@@ -11,6 +11,6 @@ Mittlerer Körper = 5
 
 ## 🔢 Finaler Zahlencode
 
-🎯 **`4  -  12  -  5`**
+🎯 **`5  -  12  -  4`**
 
 ---
