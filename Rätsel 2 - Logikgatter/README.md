@@ -44,3 +44,6 @@ Logikgatter und verwandte Themen werden unter anderem in dem Modul Rechnerorgani
     Stelle das Zahlenschloss auf den Code aus der Lösungskarte ein
     und schließ damit die nächte Box zu (Code Bausteine)
     
+## Alternative Version
+    Drucke die Dateien aus dem Ordner „Alternatives Rätsel“ aus.
+    Dort kann zum Beispiel das Logikgatter laminiert werden, um das Rätsel wiederverwendbar zu machen.
