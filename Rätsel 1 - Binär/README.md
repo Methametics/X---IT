@@ -21,7 +21,7 @@ Das Umrechnen von Binär- in Dezimalzahlen wird zwar selten gezielt vermittelt, 
 
     1x Die große Box für alle Rätsel
 
-    1x Lösungkarte (optional)
+    1x Lösungskarte (optional)
 
 🧩 Zusammenbauanleitung:
 
