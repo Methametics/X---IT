@@ -1,12 +1,12 @@
 Aufbauanleitung – Rätsel mit Pendeln
-Einleitung
-Dieses Rätsel wurde für Erstsemester-Studierende im Bereich Mechanik entwickelt. Ziel ist es, spielerisch ein grundlegendes Konzept der Schwingungslehre zu vermitteln: Die Schwingfrequenz eines Fadenpendels hängt nur von seiner Länge ab – vorausgesetzt, die Auslenkung ist klein. Durch aktives Ausprobieren sollen die Teilnehmenden diese Abhängigkeit selbst entdecken und verstehen.
+
+Ziel diesen Rätzel ist es, spielerisch ein grundlegendes Konzept der Schwingungslehre zu vermitteln: Die Schwingfrequenz eines Fadenpendels hängt nur von seiner Länge ab – vorausgesetzt, die Auslenkung ist klein. Durch aktives Ausprobieren sollen die Teilnehmenden diese Abhängigkeit selbst entdecken und verstehen.
 
 Zielgruppe
-Studierende im ersten Semester (Erstis), keine Vorkenntnisse nötig. Ideal für Moduleinführungen oder Brückenkurse in Mechanik.
+Studierende im ersten Semester (Erstis), keine Vorkenntnisse nötig.
 
 Ziel des Rätsels
-Die Teilnehmenden müssen herausfinden, welche drei Pendel die gleiche Schwingfrequenz haben, obwohl sie unterschiedliche Massen und Farben besitzen. Der Trick: Nur die Länge spielt eine Rolle. Als Lösung ergibt sich ein dreistelliger Zahlencode, der ein Schloss öffnet.
+Die Teilnehmenden müssen herausfinden, welche drei Pendel die gleiche Schwingfrequenz haben, obwohl sie unterschiedliche Massen und Längen besitzen. Der Trick: Nur die Länge spielt eine Rolle. Als Lösung ergibt sich ein dreistelliger Zahlencode, der ein Schloss öffnet.
 
 Was gelernt wird
 Einfache Schwingungen (Fadenpendel)
@@ -54,9 +54,7 @@ Die Gewichte haben Zahlen und Farben. Die Kombination ergibt den dreistelligen C
 
 Optional kann eine Hinweiskarte beigelegt werden mit dem Hinweis auf die Formel:
 
-makefile
-Copy
-Edit
+
 Hinweis: Die Schwingfrequenz eines Fadenpendels hängt nur von seiner Länge ab – vorausgesetzt, die Auslenkung ist klein.
 f = (1 / 2π) * √(g / L)
 Lösung
