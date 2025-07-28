@@ -10,12 +10,14 @@ Dazu erhalten die Spieler nach dem Rollversuch ein vorbereitetes Arbeitsblatt mi
 
 ## MINT-Bezug
 Das Trägheitsmoment ist eine wichtige physikalische Größe, die in Schule und Studium oft abstrakt bleibt.  
-Dieses Rätsel bringt das Thema anschaulich näher.
+Dieses Rätsel bringt das Thema anschaulich näher und eignet sich dadurch ideal für MINT-orientierte Lernsettings z. B. in Schülerlaboren, oder Physik-Modulen.
 
 ---
-## Schwierigkeitsgrad **★★★☆☆ (3/5)**
+##  Schwierigkeitsgrad
 
----
+**★★★☆☆** (3/5)
+
+- Keine Vorkenntnisse nötig, aber grundlegendes physikalisches Verständnis hilfreich  
 
 ## ✅ Checkliste – Benötigte Materialien
 - [ ] Drei 3D-gedruckte Zylinder:  
@@ -30,46 +32,37 @@ Dieses Rätsel bringt das Thema anschaulich näher.
 
 ---
 
-##  Schritt-für-Schritt-Anleitung
+## 🛠 Aufbauanleitung – Schritt für Schritt
 
- Zylinder vorbereiten (3D-Druck)
+### 1. Zylinder vorbereiten (3D-Druck)
 
 Die Körper wurden mit CAD konstruiert und können selbstständig ausgedruckt werden.  
-Alle STL-Dateien findest du hier:
+Die STL-Dateien findest du im selben GitHub-Repository:
 
  **[STL-Dateien auf GitHub](https://github.com/Methametics/Wissenschaftskommunikation/tree/main/R%C3%A4tsel%206%20-%20RollendeK%C3%B6rper/Material/STL)**
 
 ![WhatsApp Bild 2025-05-27 um 21 50 36_f3821b60](https://github.com/user-attachments/assets/1e1deac9-76a4-4fa8-9584-9b71ed4be047)
 
-*Abb. 1: Digitale Konstruktion der drei Zylinder mit unterschiedlichen Trägheitsmomenten*
+*Abb. 1: Digitale Konstruktion der drei Zylinder*
 
 ---
 
-### Zylinder befüllen & abwiegen
-Nach dem Druck werden die Zylinder mit haushaltsüblichen Materialien wie **Salz** und **Reis** befüllt.  
-Ziel ist es, alle drei Zylinder auf die gleiche **Gesamtmasse (~90 g)** zu bringen.  
-So lässt sich sicherstellen, dass Unterschiede im Rollverhalten **nur auf das Trägheitsmoment** zurückzuführen sind.
+### 2. Zylinder befüllen & abwiegen
+Nach dem Druck werden die Zylinder mit haushaltsüblichen Materialien befüllt. Ziel ist es, das Gewicht der Körper exakt anzugleichen (Zielwert: ca. 90 g), um äußere Einflüsse auf das Rollverhalten auszuschließen.
+Das Befüllen erfolgt in kleinen Schritten unter Verwendung einer Feinwaage. Jeder Zylinder sollte nach dem Verschließen mit Deckel gewogen werden.
+Besonders beim Hohlzylinder ist das Volumen begrenzt.  Da Reis eine geringere Dichte besitzt als Salz, kann er allein das Zielgewicht nicht erreichen.  
+**Lösung:** Mischverhältnis aus Salz (dicht) und Reis (voluminös) verwenden.
 
 ![IMG_8169](https://github.com/user-attachments/assets/e29e621d-2e0d-416e-9490-bcc43098b8b2)
 
 *Abb. 2: Geöffnete Zylinder mit Deckeln zur Befüllung*
 
-### Vorgehensweise:
-
-- **Schrittweise Befüllung unter Verwendung einer digitalen Feinwaage**
-- Nach jedem Befüllschritt: Zylinder mit Deckel wiegen
-- Zielgewicht: ca. 90 g inkl. Deckel und Hülle
-
 ![20250603_134236](https://github.com/user-attachments/assets/1f8cd1c4-b72b-4d94-af2c-3edaed4d1233)
 *Abb. 3: Abwiegen eines Zylinders mit digitaler Feinwaage*
 
- **Hinweis zur Dichte:**  
-Besonders beim Hohlzylinder ist das Volumen begrenzt.  
-Da Reis eine geringere Dichte besitzt als Salz, kann er allein das Zielgewicht nicht erreichen.  
-**Lösung:** Mischverhältnis aus Salz (dicht) und Reis (voluminös) verwenden.
 ---
 
-###  Rollstrecke aufbauen
+### 3. Rollstrecke aufbauen
 Für das Experiment wird eine geneigte Rampe verwendet, auf der die Zylinder frei abrollen können.
 
 Die Rampe sollte folgende Anforderungen erfüllen:
