@@ -5,12 +5,12 @@
 
 Die Kernidee dieses Rätsels beruht auf einem grundlegenden Konzept der klassischen Mechanik:
 
-> **Körper mit gleicher Masse und gleichem Radius, aber unterschiedlicher Massenverteilung** rollen unterschiedlich schnell eine geneigte Ebene hinunter – allein aufgrund ihres unterschiedlichen **Trägheitsmoments**.
+ **Körper mit gleicher Masse und gleichem Radius, aber unterschiedlicher Massenverteilung** rollen unterschiedlich schnell eine geneigte Ebene hinunter – allein aufgrund ihres unterschiedlichen **Trägheitsmoments**.
 
 - Körper mit der **Masse nahe dem Zentrum** (kleines Trägheitsmoment) rollen schneller.  
 - Körper mit der **Masse weiter außen** (großes Trägheitsmoment) rollen langsamer.
 
-Die Spieler*innen beobachten den Versuch und erhalten ein **Blatt mit schematischen v(t)- und a(t)-Diagrammen**.  
+Die Spieler*innen beobachten den Versuch und erhalten ein jeweils ein **Blatt mit v(t)- und a(t)-Diagrammen**.  
 Ziel ist es, den passenden Bewegungsverlauf zu jedem Körper zuzuordnen.
 
 
