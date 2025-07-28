@@ -2,15 +2,29 @@
 
 ### Physikalische Idee (für Lehrkräfte / Betreuende)
 
-Die Kernidee des Rätsels beruht auf dem physikalischen Phänomen, dass verschiedene starre Körper mit gleicher Masse und gleichem Radius, aber unterschiedlicher Massenverteilung (und somit unterschiedlichem Trägheitsmoment), unterschiedlich schnell eine geneigte Ebene hinunterrollen, wenn sie aus der gleichen Höhe starten. Körper, deren Masse stärker am Zentrum konzentriert ist (kleineres Trägheitsmoment), rollen schneller als Körper, deren Masse stärker am äußeren Rand verteilt ist (größeres Trägheitsmoment).
 
-Dazu erhalten die Spieler nach dem Rollversuch ein vorbereitetes Arbeitsblatt mit schematischen Geschwindigkeits- und Beschleunigungsdiagrammen. Ziel ist es, die korrekte Zuordnung zwischen den Körpern und den dargestellten Bewegungsverläufen vorzunehmen. Die Diagramme sind so gestaltet, dass sie unterschiedliche Steigungen aufweisen, die mit dem Beschleunigungs- und Geschwindigkeitsverhalten von Körpern mit verschiedenem Trägheitsmoment konsistent sind.
+Die Kernidee dieses Rätsels beruht auf einem grundlegenden Konzept der klassischen Mechanik:
+
+> **Körper mit gleicher Masse und gleichem Radius, aber unterschiedlicher Massenverteilung** rollen unterschiedlich schnell eine geneigte Ebene hinunter – allein aufgrund ihres unterschiedlichen **Trägheitsmoments**.
+
+- Körper mit der **Masse nahe dem Zentrum** (kleines Trägheitsmoment) rollen schneller.  
+- Körper mit der **Masse weiter außen** (großes Trägheitsmoment) rollen langsamer.
+
+Die Spieler*innen beobachten den Versuch und erhalten ein **Blatt mit schematischen v(t)- und a(t)-Diagrammen**.  
+Ziel ist es, den passenden Bewegungsverlauf zu jedem Körper zuzuordnen.
+
 
 ---
 
 ## MINT-Bezug
 Das Trägheitsmoment ist eine wichtige physikalische Größe, die in Schule und Studium oft abstrakt bleibt.  
 Dieses Rätsel bringt das Thema anschaulich näher und eignet sich dadurch ideal für MINT-orientierte Lernsettings z. B. in Schülerlaboren, oder Physik-Modulen.
+
+**Fachlicher Mehrwert:**
+
+-  *Physik*: Trägheitsmoment, Energieerhaltung, Rotation vs. Translation  
+-  *Mathematik*: Steigungen in v(t) und a(t), Proportionalitäten  
+-  *Didaktik*: Hypothesenbildung, Diagramm-Interpretation, handlungsorientiertes Lernen
 
 ---
 ##  Schwierigkeitsgrad
