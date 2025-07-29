@@ -113,7 +113,7 @@ Optional: Die Lösungen des richtigen Zusammenbaus und der richtigen Anwendung d
 
 Im Ordner Extras findet ihr Extrateile für tiefgehendere Veranschaulichungen zum Thema **statischer Bestimmtheit und Lagerreaktionen** ( bzw. Bewegungseinschränkungen von **Loslagerung, Festlagerung und fester Einspannung**). Dazu sind folgende Bauteile hinterlegt:  
 -  Mittlere Grundplatte (3D-Druck, schwarz)
--  feste Einspannung (3D-Druck, schwarz)
+-  Feste Einspannung (3D-Druck, schwarz)
 
 Mit diesen Teilen, kann also zusätzlich die Lagerung mit einer festen Einspannung veranschaulicht werden, sowie andere Lagerungskombinationen und die Auswirkung, wenn man nicht eine statisch bestimmte Lagerung wie die Fest-Loslagerung verwendet.
 Die Grundplatte ist folgendermaßen dimensioniert: wenn man zwei kürzere Grundplattenteile (im STL-Dateien hinterlegt) an ein längeres mittleres Grundplattenteil (im Extra Ordner hinterlegt) steckt, kann man alle möglichen Lagerungskombinationen austesten und sehen, dass bspw. eine Festlagerung auf der linken Seite mit einer festen Einspannung auf der rechten Seite zu Spannungen führen kann, die Notwendigkeit für eine statisch bestimmte Fest-Losgerung veranschaulicht.
