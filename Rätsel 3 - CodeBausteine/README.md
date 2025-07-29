@@ -6,11 +6,11 @@ In diesem Rätsel wurde ein einfacher Python-Algorithmus zur Berechnung der Faku
 ## MINT-Bezug:
 Das Zusammensetzen von Programmcode fördert algorithmisches Denken – eine grundlegende Fähigkeit in der Informatik und vielen technischen Berufen. Auch ohne selbst zu programmieren, vermittelt das Rätsel ein Gefühl für Aufbau und Logik einfacher Programme.
 
-## Anleitung 🛠️
+## Anleitung
 
-🔐 Schwierigkeitsstufe: ★★★☆☆ (3/5)
+ Schwierigkeitsstufe: ★★★☆☆ (3/5)
 
-✅ Checkliste – benötigte Teile:
+ Checkliste – benötigte Teile:
 
     1x Storykarte
 
@@ -26,7 +26,7 @@ Das Zusammensetzen von Programmcode fördert algorithmisches Denken – eine gru
 
     1x Lösungskarte (optional)
 
-🧩 Aufbauanleitung – Schritt für Schritt:
+ Aufbauanleitung – Schritt für Schritt:
 
     1. Dateien ausdrucken: 
       - Rätselkarte

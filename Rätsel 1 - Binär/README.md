@@ -7,11 +7,11 @@ Ziel ist es, Binärzahlen in Dezimalzahlen umzuwandeln, um ein Schloss zu öffne
 ## MINT-Bezug:
 Das Umrechnen von Binär- in Dezimalzahlen wird zwar selten gezielt vermittelt, ist aber eine zentrale Grundlage in der Informatik und begegnet einem im Studium und in technischen Berufen immer wieder. Dieses Rätsel bietet einen spielerischen Einstieg in die Welt der digitalen Zahlensysteme.
 
-## Anleitung 🛠️
+## Anleitung
 
-🔐 Schwierigkeitsstufe: ★★☆☆☆ (2/5)
+ Schwierigkeitsstufe: ★★☆☆☆ (2/5)
 
-✅ Checkliste – benötigte Teile:
+ Checkliste – benötigte Teile:
 
     1x Storykarte
 
@@ -23,7 +23,7 @@ Das Umrechnen von Binär- in Dezimalzahlen wird zwar selten gezielt vermittelt, 
 
     1x Lösungskarte (optional)
 
-🧩 Zusammenbauanleitung:
+ Zusammenbauanleitung:
 
     1. Rätselkarte und Story vorbereiten:
     Drucke die Rätselkarte (mit den Binärzahlen) und die begleitende Storykarte aus.

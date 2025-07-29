@@ -8,10 +8,10 @@ Logikgatter sind fester Bestandteil der Informatik und Elektrotechnik.
 Obwohl das Thema in der Schule meist nur gestreift wird, gehört es zu den Basiskonzepten, die im Informatikstudium und in technischen Berufen regelmäßig vorkommen.
 Logikgatter und verwandte Themen werden unter anderem in dem Modul Rechnerorganisation beigebracht.
 
-## Anleitung 🛠️
-🔐 Schwierigkeitsstufe: ★★★☆☆ (3/5)
+## Anleitung
+ Schwierigkeitsstufe: ★★★☆☆ (3/5)
 
-✅ Checkliste – benötigte Teile:
+ Checkliste – benötigte Teile:
 
     1x Storykarte
 
@@ -25,7 +25,7 @@ Logikgatter und verwandte Themen werden unter anderem in dem Modul Rechnerorgani
 
     1x Lösungskarte (optional)
 
-🧩 Aufbauanleitung – Schritt für Schritt:
+ Aufbauanleitung – Schritt für Schritt:
 
     1. Dateien ausdrucken:
         - Storykarte

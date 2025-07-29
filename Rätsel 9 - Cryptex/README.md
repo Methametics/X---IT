@@ -1,22 +1,22 @@
-# 🔐 Finales Rätsel – Cryptex
+# Finales Rätsel – Cryptex
 
-## 📦 Inhalt
+## Inhalt
 
 Diese Cryptex bildet den finalen Verschlussmechanismus der gesamten MINT-Rätselbox. Die richtige Lösung ergibt sich aus den vorhergehenden Uhrwerk-Rätsel.  
 Nur wer alle Codes korrekt kombiniert, kann die Cryptex öffnen und damit das MINT-Survival-Kit freilegen.
 
 ---
 
-## 🛠 Verwendetes Modell
+## Verwendetes Modell
 
 Die Cryptex basiert auf einem offenen 3D-Modell von Thingiverse in der Version mit 5 Ringen:
 
-🔗 [Combination Safe 00 (Cryptex) by SavageRodent](https://www.thingiverse.com/thing:586169)
+[Combination Safe 00 (Cryptex) by SavageRodent](https://www.thingiverse.com/thing:586169)
 Lizenz: Creative Commons - Attribution - Non-Commercial - Share Alike
 
 ---
 
-## 🧩 Funktion im Spiel
+## Funktion im Spiel
 
 - Die fünfstellige Kombination der Cryptex ergibt sich aus den **Werten zu den Zeitpunkten im Uhrwerk-Rätsel**
 - Die Ziffern erscheinen nur, wenn das mechanische Uhrwerk korrekt eingestellt ist
@@ -24,7 +24,7 @@ Lizenz: Creative Commons - Attribution - Non-Commercial - Share Alike
 
 ---
 
-## 🛠 Aufbau
+## Aufbau
 
 Wir haben das Modell nicht verändert, also gilt weiterhin die Anleitung auf Thingiverse. 
 Gedruckt wurde mit folgenden Parametern:
@@ -38,7 +38,7 @@ Alle Einzelteile sind in `stl/` abgelegt.
 
 ---
 
-## 🔧 Anpassung der Kombination
+## Anpassung der Kombination
 
 Die Standardversion der Cryptex erlaubt das freie Festlegen einer Kombination.  
 In unserem Fall wurde sie auf den Code aus dem Uhrwerk-Rätsel eingestellt. Dieser ist abhängig von den letzendlichen Eigenschaften des Uhrwerks, z.B. der Flexibilität der Feder. Es bietet sich also an, den Code abzulesen und erst dann die Cryptex zu programmieren.
@@ -47,7 +47,7 @@ In unserem Fall wurde sie auf den Code aus dem Uhrwerk-Rätsel eingestellt. Dies
 
 ---
 
-## 📁 Ordnerstruktur
+## Ordnerstruktur
 
 ```plaintext
 9_Cryptex/
@@ -63,11 +63,11 @@ In unserem Fall wurde sie auf den Code aus dem Uhrwerk-Rätsel eingestellt. Dies
  ```
 ---
 
-## 🧠 Didaktischer Hinweis
+## Didaktischer Hinweis
 Die Cryptex ist ein hervorragendes Werkzeug, um den Spielenden ein greifbares Ziel zu geben – sie vereint alle vorhergehenden Inhalte in einem finalen, analogen „Aha-Moment“. Besonders motivierend: Das Öffnen der Cryptex ist nicht nur das Lösen eines Rätsels, sondern ein symbolischer Abschluss des gesamten Box-Erlebnisses.
 
 ---
 
-## 📢 Lizenzhinweis
+## Lizenzhinweis
 Das verwendete 3D-Modell unterliegt der CC BY-NC-SA Lizenz.
 Die Originalversion darf gerne angepasst und weiterverwendet werden, nicht kommerziell.

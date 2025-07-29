@@ -33,7 +33,7 @@ Dieses Rätsel bringt das Thema anschaulich näher und eignet sich dadurch ideal
 
 - Keine Vorkenntnisse nötig, aber grundlegendes physikalisches Verständnis hilfreich  
 
-## ✅ Checkliste – Benötigte Materialien
+## Checkliste – Benötigte Materialien
 - [ ] Drei 3D-gedruckte Zylinder:  
   ‣ Vollzylinder  
   ‣ Hohlzylinder  
@@ -46,7 +46,7 @@ Dieses Rätsel bringt das Thema anschaulich näher und eignet sich dadurch ideal
 
 ---
 
-## 🛠 Aufbauanleitung – Schritt für Schritt
+## Aufbauanleitung – Schritt für Schritt
 
 ### 1. Zylinder vorbereiten (3D-Druck)
 

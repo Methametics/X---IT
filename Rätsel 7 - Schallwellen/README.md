@@ -28,7 +28,7 @@ Die Schwingungslehre ist omnipräsent. Ihre Wichtigkeit ist kritisch. Zum Beispi
 
 - Keine Vorkenntnisse nötig, aber man muss einen kühlen Kopf bewahren  
 
-## ✅ Checkliste – Benötigte Materialien zum Bauen
+## Checkliste – Benötigte Materialien zum Bauen
 - [ ] Korkbrett 15cm x 15.5cm   
 - [ ] Laminiergerät  
 - [ ] Drucker 
@@ -36,13 +36,13 @@ Die Schwingungslehre ist omnipräsent. Ihre Wichtigkeit ist kritisch. Zum Beispi
 - [ ] Seitenschneider
 - [ ] Nägel
 - [ ] Hammer
-## ✅ Checkliste – Benötigte Materialien zum Spielen
+## Checkliste – Benötigte Materialien zum Spielen
 - [ ] Folienstifte/Filzstifte
 - [ ] Wasser/Alkohol 
 
 ---
 
-## 🛠 Aufbauanleitung – Schritt für Schritt
+## Aufbauanleitung – Schritt für Schritt
 
 ### 1. Puzzle
 

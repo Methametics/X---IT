@@ -1,4 +1,4 @@
-# ✅ Lösung zum Rätsel „Rollende Körper“
+# Lösung zum Rätsel „Rollende Körper“
 
 Diese Datei enthält die vollständige Lösung zur Zuordnung der Körper und Kurven sowie die Herleitung des finalen Zahlencodes.
 
@@ -9,8 +9,8 @@ Schnellster Körper = 12
 Mittlerer Körper = 4
 
 
-## 🔢 Finaler Zahlencode
+## Finaler Zahlencode
 
-🎯 **`5  -  12  -  4`**
+**`5  -  12  -  4`**
 
 ---
