@@ -13,8 +13,7 @@ Die Spieler*innen sollen mit dem Gedanken der destruktiven Interfernz das Puzzle
 ---
 
 ## MINT-Bezug
-Das Trägheitsmoment ist eine wichtige physikalische Größe, die in Schule und Studium oft abstrakt bleibt.  
-Dieses Rätsel bringt das Thema anschaulich näher und eignet sich dadurch ideal für MINT-orientierte Lernsettings z. B. in Schülerlaboren, oder Physik-Modulen.
+Die Schwingungslehre ist omnipräsent. Ihre Wichtigkeit ist kritisch. Zum Beispiel spielen Schwingungen in der Fahrzeugakustik eine große Rolle. Seien es Lärm oder Verschleiß, in beiden Fällen modelliert man Schwingungen mit Trigonometrischen Funktionen, wie in diesem Rätsel. Es ist zwar nur ein kleiner Einblick, doch man muss fundamentale Prinzipien verstehen könne.
 
 **Fachlicher Mehrwert:**
 
@@ -30,12 +29,13 @@ Dieses Rätsel bringt das Thema anschaulich näher und eignet sich dadurch ideal
 - Keine Vorkenntnisse nötig, aber man muss einen kühlen Kopf bewahren  
 
 ## ✅ Checkliste – Benötigte Materialien zum Bauen
-- [ ] Korkplatte 15cm x 15cm   
+- [ ] Korkplatte 15cm x 15.5cm   
 - [ ] Laminiergerät  
 - [ ] Drucker 
 - [ ] Schere/Schneidemaschine
 - [ ] Seitenschneider
 - [ ] Nägel
+- [ ] Hammer
 ## ✅ Checkliste – Benötigte Materialien zum Spielen
 - [ ] Folienstifte/Filzstifte
 - [ ] Wasser/Alkohol 
