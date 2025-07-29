@@ -44,10 +44,16 @@ Die Schwingungslehre ist omnipräsent. Ihre Wichtigkeit ist kritisch. Zum Beispi
 
 ## 🛠 Aufbauanleitung – Schritt für Schritt
 
-### 1. Zylinder vorbereiten (3D-Druck)
+### 1. Puzzle
 
-Die Körper wurden mit CAD konstruiert und können selbstständig ausgedruckt werden.  
-Die STL-Dateien findest du im selben GitHub-Repository:
+Die Größe des Puzzles ist frei wählbar. Allerdings muss man darauf achten, dass die Materialien, auf ein Korkbrett mit den Maßen 15cm x 15.5cm ausgelegt sind. 
+Deshalb sollte man sich die Datei **Puzzle.odp** oder **Puzzle.pptx** näher anschauen und die Größe selbstständig ändern. 
+
+### 1.1 Puzzle
+Nachdem man sich auf eine Größe festgelegt hatte, kann man den Ausdruck bearbeiten. Dabei empfiehlt es sich mit einer Schneidemaschine zu arbeiten, denn so können die kleinen Puzzleteile am genausten ausgeschnitten werden.
+
+
+
 
  **[STL-Dateien auf GitHub](https://github.com/Methametics/Wissenschaftskommunikation/tree/main/R%C3%A4tsel%206%20-%20RollendeK%C3%B6rper/Material/STL)**
 
