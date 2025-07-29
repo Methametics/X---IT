@@ -113,7 +113,7 @@ Optional: Die Lösungen des richtigen Zusammenbaus und der richtigen Anwendung d
 
 ## Extras
 
-Im Ordner Extras findet ihr Extrateile für tiefgehendere Veranschaulichungen zum Thema **statischer Bestimmtheit und Lagerreaktionen** ( bzw. Bewegungseinschränkungen von Loslagerung, Festlagerung und fester Einspannung). Dazu sind folgende Bauteile hinterlegt:  
+Im Ordner Extras findet ihr Extrateile für tiefgehendere Veranschaulichungen zum Thema **statischer Bestimmtheit und Lagerreaktionen** ( bzw. Bewegungseinschränkungen von **Loslagerung, Festlagerung und fester Einspannung**). Dazu sind folgende Bauteile hinterlegt:  
 -  Mittlere Grundplatte (3D-Druck, schwarz)
 -  feste Einspannung (3D-Druck, schwarz)
 
