@@ -107,7 +107,7 @@ Die benötigten Teile wurden mit CAD konstruiert. Die Dateien findest du im STL-
 Die richtige Konstruktion führt zur Lösung:  
 **Eine dreistellige Zahl für das Zahlenschloss**
 
-Optional: Die Lösung kann zusätzlich auf einer der **Lösungskarten** notiert sein und in die Rätselbox dazugelegt werden.
+Optional: Die Lösungen des richtigen Zusammenbaus und der richtigen Anwendung der Nullstabregeln, sowie die Lösung der richtiges Zahlencodes für das Schloss kann zusätzlich auf den **Lösungskarten** in die Rätselbox dazugelegt werden. So können die Spieler trotzdem weiterkommen auch wenn sie nicht schnell genug auf die ganze richtige Lösung kommen.
 
 ---
 
