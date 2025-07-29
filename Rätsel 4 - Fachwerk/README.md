@@ -117,3 +117,5 @@ Im Ordner Extras findet ihr Extrateile für tiefgehendere Veranschaulichungen zu
 
 Mit diesen Teilen, kann also zusätzlich die Lagerung mit einer festen Einspannung veranschaulicht werden, sowie andere Lagerungskombinationen und die Auswirkung, wenn man nicht eine statisch bestimmte Lagerung wie die Fest-Loslagerung verwendet.
 Die Grundplatte ist folgendermaßen dimensioniert: wenn man zwei kürzere Grundplattenteile (im STL-Dateien hinterlegt) an ein längeres mittleres Grundplattenteil (im Extra Ordner hinterlegt) steckt, kann man alle möglichen Lagerungskombinationen austesten und sehen, dass bspw. eine Festlagerung auf der linken Seite mit einer festen Einspannung auf der rechten Seite zu Spannungen führen kann, die Notwendigkeit für eine statisch bestimmte Fest-Losgerung veranschaulicht.
+
+Zusätzlich ist in dem Ordner Extras auch eine PDF mit Fotos von den verschiedenen Bauteilen der Brücke und von dem finalen Zusammenbau des gelösten Rätsels bzw. der Fachwerkbrücke hinterlegt.
