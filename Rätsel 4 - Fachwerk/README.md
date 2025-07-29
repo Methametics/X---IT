@@ -45,9 +45,7 @@ Keine Vorkenntnisse nötig, aber Grundverständnis mechanischer Begriffe hilfrei
 - 3 Rätselkarten (Papier, Farbdruck, laminiert)
 - 2 Lösungskarten (Papier, Farbdruck, laminiert)
 - Durchsichtige Tüten und Namensschilder (Papier, Farbdruck, laminiert) für Komponenten
-- 1 Zahlenschloss mit 3 Ziffern
-- 2 Schlosslochaufsetzer (3D-Druck, weiß)
-- 1 Box zur Aufbewahrung (z.B. 13cm x 20cm x 8cm)
+- (1 Rätselbox wie im Ordner 'Allgemeines' beschrieben mit: 1 Zahlenschloss mit 3 Ziffern, 2 Aufsetzer für das Zahlenschloss (3D-Druck, weiß), 1 Box zur Aufbewahrung (z.B. 13cm x 20cm x 8cm))
 
 ---
 
@@ -59,7 +57,7 @@ Die benötigten Teile wurden mit CAD konstruiert. Die Dateien findest du im STL-
 
 **3D-Druck:**
 - **Schwarz:** `Grundplatte.stl`, `Festlager.stl`, `Loslager.stl`, `Diagonalstab.stl`, `Stab.stl`
-- **Weiß:** `Stab.stl`, `Schlosslochaufsetzer.stl`
+- **Weiß:** `Stab.stl`
 
 ---
 
