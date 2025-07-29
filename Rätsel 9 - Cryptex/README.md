@@ -12,6 +12,7 @@ Nur wer alle Codes korrekt kombiniert, kann die Cryptex öffnen und damit das MI
 Die Cryptex basiert auf einem offenen 3D-Modell von Thingiverse in der Version mit 5 Ringen:
 
 [Combination Safe 00 (Cryptex) by SavageRodent](https://www.thingiverse.com/thing:586169)
+
 Lizenz: Creative Commons - Attribution - Non-Commercial - Share Alike
 
 ---
@@ -53,13 +54,7 @@ In unserem Fall wurde sie auf den Code aus dem Uhrwerk-Rätsel eingestellt. Dies
 9_Cryptex/
 ├── README.md
 └── stl/
-    ├── Cryptex_Body.stl
-    ├── Cryptex_Ring_0.stl
-    ├── Cryptex_Ring_1.stl
-    ├── Cryptex_Ring_2.stl
-    ├── Cryptex_Ring_3.stl
-    ├── Cryptex_Ring_4.stl
-    └── Cryptex_End_Caps.stl
+    ├── ...
  ```
 ---
 

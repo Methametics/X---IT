@@ -1,9 +1,11 @@
 ## X-IT Box (äußere Box, die alle Rätsel enthält) und allgemein benötigte Materialien
-Hier geht es darum, wie ihr die tatsächliche Box gestalten könnt. Wie immer, sind der Kreativität keine Grenzen gesetzt. Wir haben uns für eine Umzugskarton-Box (Bauhaus Cargos S) entschieden, die wir mit einem Logo und einem Zahlenschloss versehen haben und mit MINT-grüner Klebefolie dekoriert haben. Ihr könnt aber auch eine andere Box verwenden, die ihr schön findet.
+Hier geht es darum, wie ihr die tatsächliche Box gestalten könnt. Wie immer, sind der Kreativität keine Grenzen gesetzt. Wir haben uns für eine Umzugskarton-Box (Bauhaus Cargos S) entschieden, die wir mit einem Logo und einem Zahlenschloss versehen haben und mit MINT-grüner Klebefolie dekoriert haben. Ihr könnt aber auch eine andere Box verwenden, die ihr schön findet. Auf der Außenbox muss auch noch das erste Rätsel platziert werden, damit die Spieler\*innen wissen, wo sie anfangen sollen. Wor haben dazu eine Tasche unter den Deckel geklebt (siehe Bilder).
 
 Für die inneren Rätselboxen (die Boxen, die die Rätsel enthalten) könnt ihr ebenfalls kreativ sein. Wir haben alle möglichen passenden Kartons zusammengesucht und in braunen Packpapier eingeschlagen. Dann haben wir die Rätsellogos und Aufsätze für die Vorhängeschlösser aufgeklebt.
 
-# Materialien für die Außenbox:
+# Außenbox
+
+## Materialien
 - 1x Umzugskarton L x B x H: 50 x 35 x 37 cm
 - 2x Logo
 - 2x Aufsatz Vorhängeschloss
@@ -11,8 +13,23 @@ Für die inneren Rätselboxen (die Boxen, die die Rätsel enthalten) könnt ihr 
 - Flüssigkleber (Bastelkleber)
 - Heißkleber (zum Kleben der Aufsätze)
 - evtl. Klebfolie zur Gestaltung der Box
+- ggf. Büroklammer (zur Befestigung der Rätselkarten)
 
-# Materialien für die inneren Rätselboxen:
+## Bilder
+
+![Design der Außenbox mit Logo und Klebefolie](Bilder/Außenbox_hochkant.JPG)
+Design der Außenbox mit Logo und Klebefolie.
+![Design der Oberseite der Außenbox mit Logo und Zahlenschloss sowie Rätsellogo](Bilder/Außenbox_oberseite.JPG)
+Design der Oberseite der Außenbox mit Logo und Zahlenschloss sowie Rätsellogo.
+![Verschluss der Außenbox mit Aufsatz für das Zahlenschloss](Bilder/Außenbox_Verschluss.JPG)
+Verschluss der Außenbox mit Aufsatz für das Zahlenschloss.
+![Tasche für das erste Rätsel](Bilder/Außenbox_Rätsel.JPG)
+Tasche für das erste Rätsel.
+
+# Innere Rätselboxen
+
+## Materialien
+
 - 1x passende Rätselbox
 - 1 Rätsellogo
 - 2 Aufsatz Vorhängeschloss
@@ -24,5 +41,19 @@ Für die inneren Rätselboxen (die Boxen, die die Rätsel enthalten) könnt ihr 
 - Flüssigkleber (Bastelkleber)
 - Heißkleber (zum Kleben der Aufsätze)
 
+## Bilder
+
+![Packung der Rätselboxen](Bilder/Packung_Rätselboxen.JPG)
+Packung der Rätselboxen.
+![Beispiel Rätselbox 4](Bilder/Rätselbox_4.JPG)
+Beispiel Rätselbox 4.
+![Beispiel Rätselbox 7](Bilder/Rätselbox_7.JPG)
+Beispiel Rätselbox 7.
+![Beispiel Rätselbox 8](Bilder/Rätselbox_8.JPG)
+Beispiel Rätselbox 8.
+
 # Extras
-Feedbackbogen
+Wir haben auch noch eine Tüte mit Ersatzteilen & Extras beigelegt. Darin sind z.B. Aufsätze für die Vorhängeschlösser in Reserve, leicht zu verlierendes Zubehör zu den Rätseln und auch das Werkzeug zum Einstellen der Cryptex.
+![Tüte mit Ersatzteilen und Extras](Bilder/Ersatzteile_Extras.JPG)
+
+Außerdem haben wir noch einen [Feedbackbogen](Feedbackbogen.pdf) beigelegt, den die Spieler\*innen nach dem Spielen ausfüllen können. Das hilft uns, die Rätselbox zu verbessern und zu sehen, ob sie Spaß gemacht hat.
