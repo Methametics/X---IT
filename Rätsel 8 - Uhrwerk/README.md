@@ -117,7 +117,7 @@ Rätsel 8 - Uhrwerk/
 - 1x SpringBarrel
 - 1x Ratchet
 - 1x MainSpring (bevorzugt PLA+, PETG, oder PCTG)
-- 1x WindingStem v2
+- 1x WindingStem v2 (mit Support drucken)
 - 1x WindingKey
 
 #### TrainFrame
