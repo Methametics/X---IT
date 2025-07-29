@@ -26,5 +26,5 @@ Für die inneren Rätselboxen (die Boxen, die die Rätsel enthalten) könnt ihr 
 - Heißkleber (zum Kleben der Aufsätze)
 
 # Extras zur potentiellen Weiterentwicklung der Rätsel
-Feedbackbogen (ausfüllbares Dokument, sowie unsere Feedbackauswertung, die bei der Rätselentwicklung Einfluss genommen haben)
-Karten-Vorlage-PowerPoint-Datei um die Selbstgestaltung von Rätselkarten zu ermöglichen
+- Feedbackbogen (ausfüllbares Dokument, sowie unsere Feedbackauswertung, die bei der Rätselentwicklung Einfluss genommen haben)
+- Karten-Vorlage-PowerPoint-Datei um die Selbstgestaltung von Rätselkarten zu ermöglichen
