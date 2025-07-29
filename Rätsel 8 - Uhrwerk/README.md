@@ -1,12 +1,14 @@
 # Rätsel 8 – Uhrwerk
 
+![Uhrwerk](bilder/watch_escapement_puzzle_transparent_background.png)
+
 ## Ziel des Rätsels
 
-Das Ziel dieses Rätsels ist es, ein echtes mechanisches Uhrwerk begreifbar zu machen. Die Spielenden erleben an einem voll funktionsfähigen 3D-gedruckten Modell, wie ein sogenannter *Escapement Mechanism* (Hemmwerk) funktioniert – ein zentraler Bestandteil jeder mechanischen Uhr. Dabei geht es darum, durch das richtige Einstellen von Trägheitsmomenteine kontrollierte Schwingung zu erzeugen und so mechanische Zeit sichtbar zu machen. Das Uhrwerk „tickt“ nur, wenn alle Bedingungen stimmen.
+Das Ziel dieses Rätsels ist es, ein echtes mechanisches Uhrwerk begreifbar zu machen. Die Spielenden erleben an einem voll funktionsfähigen 3D-gedruckten Modell, wie ein sogenannter *Escapement Mechanism* (dt. Hemmwerk) funktioniert – ein zentraler Bestandteil jeder mechanischen Uhr. Dabei geht es darum, durch das richtige Einstellen von Trägheitsmomenteine kontrollierte Schwingung zu erzeugen und so mechanische Zeit sichtbar zu machen. Das Uhrwerk „tickt“ nur, wenn alle Bedingungen stimmen.
 
 Die Lernenden sollen:
 - das Zusammenspiel von Trägheitsmoment und Frequenz verstehen,
-- das Prinzip mechanischer Zeitregelung durch Oszillatoren (Pendel oder Schwungrad) entdecken,
+- das Prinzip mechanischer Zeitregelung durch Oszillatoren (Schwungrad) entdecken,
 - selbst beobachten, wann und wie sich die Mechanik öffnet – und damit die Lösung sichtbar wird.
 
 ---
@@ -15,15 +17,14 @@ Die Lernenden sollen:
 **Spielweise:**  
 Die Spielenden müssen zunächst das Uhrwerk zusammenbauen, indem sie das passende Schwungrad auswählen und einsetzen. Dabei hilft die Lösung des vorherigen Rätsels.
 Die Spielenden starten das Uhrwerk, indem sie das Zahnrad mit den Ziffern auf die rote Startmarkierung setzen, das Uhrwerk aufziehen und starten lassen.  
-Sie beobachten das rotierende Hemmrad und warten auf bestimmte Zeitpunkte:  
-An den Positionen 4 s, 12 s und 5 s erscheint je eine Ziffer, die durch ein Sichtfenster sichtbar wird.
+Sie beobachten das rotierende Hemmrad und lesen alle zwei Sekunden einen Wert ab.
 
 **Aufbau:**  
 Das Rätsel ist bereits fast vollständig aufgebaut. Der Mechanismus ist zu fein und komplex, um ihn innerhalb des Spiels eigenständig durch die Spielenden zusammenzubauen.  
 Wird das Uhrwerk falsch konfiguriert (falsches Trägheitsmoment am Schwungrad), funktioniert es nicht oder läuft in falscher Frequenz.
 
 **Lerneffekt:**
-Ein Uhrwerk ist ein komplexer und geheimnisvoller Mechanismus aus vielen kleinen Schrauben, Federn und Zahnrädern, der den meisten Menschen auf ewig ein Geheimnis bleibt. In diesem Rätsel geht es darum, diesen mysteriösen Mechanismus verständlich und greifbar zu machen. Dazu haben wir den *Swiss Lever*, wie er in allen gängigen Armbanduhren zu finden ist, aus möglichst wenigen Komponenten nachgebaut. So lässt sich die Funktion leicht erklären und spielend entdecken. Gleichzeitig werden verschiedenste Prinzipien der Mechanik angewendet, vor allem der Kinetik und Kinematik. Indem die Spieler\*innen selber das Schwungrad auswählen und einsetzen, wird Ihnen der Effekt des Trägheitsmoments auf die Frequenz des Uhrwerks nahegebracht. Damit schließt dieses Rätsel direkt an das Vorherige, die rollenden Körper, an.
+Ein Uhrwerk ist ein komplexer und geheimnisvoller Mechanismus aus vielen kleinen Schrauben, Federn und Zahnrädern, der den meisten Menschen auf ewig ein Geheimnis bleibt. In diesem Rätsel geht es darum, diesen mysteriösen Mechanismus verständlich und greifbar zu machen. Dazu haben wir den *Swiss Lever*, wie er in allen gängigen Armbanduhren zu finden ist, aus möglichst wenigen Komponenten nachgebaut. So lässt sich die Funktion leicht erklären und spielend entdecken. Gleichzeitig werden verschiedenste Prinzipien der Mechanik angewendet, vor allem der Kinetik und Kinematik. Indem die Spielenden selber das Schwungrad auswählen und einsetzen, wird Ihnen der Effekt des Trägheitsmoments auf die Frequenz des Uhrwerks nahegebracht. Damit schließt dieses Rätsel direkt an das Vorherige, die rollenden Körper, an.
 
 ---
 
@@ -46,9 +47,11 @@ Rätsel 8 - Uhrwerk/
     ├── Rätselkarte.pdf
     ├── Storykarte.pdf
     ├── Lösungskarte.pdf
-    ├── stl/
-    │   └── ...
-    └── step/
+    ├── fusion360/
+    │   └── watch_escapement_puzzle.f3d
+    ├── step/
+    │   └── watch_escapement_puzzle.step
+    └── stl/
         └── ...
 ```
 ---
@@ -75,7 +78,7 @@ Rätsel 8 - Uhrwerk/
 - evtl. Papier (als Abstandshalter)
 - evtl. Heißkleber
 
-> [!WARNING] Schrauben
+> Schrauben
 > Du kannst Zylinderkopf-, Senkkopf- oder Linsenkopfschrauben mit Innensechskant oder Kreuzschlitz verwenden. Achte drauf, dass du das passende Werkzeug für deine Schrauben hast.  
 
 #### Metallteile
@@ -93,7 +96,7 @@ Rätsel 8 - Uhrwerk/
 ---
 #### 3D-Druck-Bauteile
 
-> [!WARNING] Druckeinstellungen & Material
+> Druckeinstellungen & Material
 > Die meisten Teile können aus PLA gedruckt werden. Für die Federn und das Schwungrad empfehlen wir jedoch PETG, PCTG oder PLA+ für eine höhere Flexibilität und Haltbarkeit. Andernfalls können sich die Federn dauerhaft verformen oder sogar brechen.
 > 
 > **Druckeinstellungen:**
@@ -162,6 +165,10 @@ Der Zusammenbau des Uhrwerks richtet sich größtenteils nach der Anleitung auf 
 - Loch im ImpactPinHousing vergrößert, um Reibung zu verringern
 - Knob für Zusammenbau ohne Werkzeug hinzugefügt
 - BalanceHeavy und BalanceLight hinzugefügt, um Trägheitsmoment zu variieren
+
+### Bild vom aufgebauten Uhrwerk
+
+![Uhrwerk](bilder/watch_escapement_puzzle_assembled.JPG)
 
 
 ## Credits
