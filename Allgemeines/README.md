@@ -52,8 +52,6 @@ Beispiel Rätselbox 7.
 ![Beispiel Rätselbox 8](Bilder/Rätselbox_8.JPG)
 Beispiel Rätselbox 8.
 
-# Extras
-Wir haben auch noch eine Tüte mit Ersatzteilen & Extras beigelegt. Darin sind z.B. Aufsätze für die Vorhängeschlösser in Reserve, leicht zu verlierendes Zubehör zu den Rätseln und auch das Werkzeug zum Einstellen der Cryptex.
-![Tüte mit Ersatzteilen und Extras](Bilder/Ersatzteile_Extras.JPG)
-
-Außerdem haben wir noch einen [Feedbackbogen](Feedbackbogen.pdf) beigelegt, den die Spieler\*innen nach dem Spielen ausfüllen können. Das hilft uns, die Rätselbox zu verbessern und zu sehen, ob sie Spaß gemacht hat.
+# Extras zur potentiellen Weiterentwicklung der Rätsel
+- [Feedbackbogen](Feedbackbogen.pdf) (ausfüllbares Dokument, sowie unsere Feedbackauswertung, die bei der Rätselentwicklung Einfluss genommen haben)
+- [Karten-Vorlage-PowerPoint-Datei](Karten-Vorlage.pptx) um die Selbstgestaltung von Rätselkarten zu ermöglichen
