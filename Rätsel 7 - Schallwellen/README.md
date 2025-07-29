@@ -29,7 +29,7 @@ Die Schwingungslehre ist omnipräsent. Ihre Wichtigkeit ist kritisch. Zum Beispi
 - Keine Vorkenntnisse nötig, aber man muss einen kühlen Kopf bewahren  
 
 ## ✅ Checkliste – Benötigte Materialien zum Bauen
-- [ ] Korkplatte 15cm x 15.5cm   
+- [ ] Korkbrett 15cm x 15.5cm   
 - [ ] Laminiergerät  
 - [ ] Drucker 
 - [ ] Schere/Schneidemaschine
@@ -46,18 +46,21 @@ Die Schwingungslehre ist omnipräsent. Ihre Wichtigkeit ist kritisch. Zum Beispi
 
 ### 1. Puzzle
 
-Die Größe des Puzzles ist frei wählbar. Allerdings muss man darauf achten, dass die Materialien, auf ein Korkbrett mit den Maßen 15cm x 15.5cm ausgelegt sind. 
+Die Größe des Puzzles ist frei wählbar. Allerdings muss man darauf achten, dass die Materialien, auf ein **Korkbrett** mit den Maßen 15cm x 15.5cm ausgelegt sind. 
 Deshalb sollte man sich die Datei **Puzzle.odp** oder **Puzzle.pptx** näher anschauen, um die Größe selbstständig zu ändern. 
 
  ### 1.1 Ausdruck
-Nachdem man sich auf eine Größe festgelegt hatte, kann man den Ausdruck bearbeiten. Dabei empfiehlt es sich mit einer Schneidemaschine zu arbeiten, denn so können die kleinen Puzzleteile am genausten ausgeschnitten werden. Dafür sollte man auf der Rückseite des Ausdrucks das Gitter skizzieren und die Felder durchnummerieren, damit man sich später noch in der Lage ist das Puzzle korrekt wiederherzustellen. Das **Gitter** sollte auf die Maße **10x10** haben, um das Puzzle in insgesamt **100 Teile** zu unterteilen.  
+Nachdem man sich auf eine Größe festgelegt hatte, kann man den Ausdruck bearbeiten. Dabei empfiehlt es sich mit einer **Schneidemaschine** zu arbeiten, denn so können die kleinen Puzzleteile am genausten ausgeschnitten werden. Alternativ schneidet man alle Teile mit einer Schere aus. Dafür sollte man auf der Rückseite des Ausdrucks das Gitter skizzieren und die Felder durchnummerieren, damit man später noch in der Lage ist das Puzzle korrekt wiederherzustellen. Das **Gitter** sollte die Maße **10x10** haben, um das Puzzle in insgesamt **100 Teile** zu unterteilen.  
 
   ### 1.2 Laminieren
-Wenn man alle nummerierten Puzzleteile vor sich liegen hat, kann man sich darum kümmern sie zu lamminieren. Es wird etwas unhandlich sein, da die kleinen Puzzlestücke so klein sind, dass sie in der Folie schnell verrutschen. 
+Wenn man alle nummerierten Puzzleteile vor sich liegen hat, kann man sich darum kümmern sie zu **lamminieren**. Es wird etwas unhandlich sein, da die kleinen Puzzlestücke so klein sind, dass sie in der Folie schnell verrutschen. 
 
-Man kann sich etwas Mühe ersparen in dem man nicht versucht die Puzzlestücke in einer DIN A4 Folie zu laminieren sondern in einer kleineren Folie. Außerdem sollte man darauf achten immer **genug Platz zwischen den Puzzlestücken zu lassen**. Es ist zu empfehlen in einer DIN A4 Folie 7 Puzzlestücke in der Länge und 4 Puzzlestücke in der Breite zu laminieren. 
+Man kann sich etwas Mühe ersparen in dem man nicht versucht die Puzzlestücke in einer DIN A4 Folie sondern in einer kleineren Folie zu laminieren. Außerdem sollte man darauf achten immer **genug Platz zwischen den Puzzlestücken zu lassen**. Es ist empfehlenswert in einer DIN A4 Folie 7 Puzzlestücke in der Länge und 4 Puzzlestücke in der Breite zu laminieren. 
 
 Man sollte stets ruhig und achtsam arbeiten, um genug PLatz zwischen den Puzzlestücke geährleisten zu können, denn das Zurechtschneiden des Ausdrucks ist sehr zeitintensiv! 
+
+### 1.3 Nägel
+Je nach Plattendicke, benötigt **Nägel** unterschiedlicher Länge. Allerdings ist ein wichtiges Kriterium, dass die Nägelköpfe so klein wie möglich sind. Im Fall, dass die Nägel zu lang sind, kann man sie mit einem **Seitenschneider** zurechtschneiden. Letzlich muss man alle Puzzlestücke in der richtigen Reihenfolge auf das Brett nageln. Dafür benötigt man den **Hammer**.
 
 ![Image](https://github.com/user-attachments/assets/f2697c8c-3fbb-4b27-a565-8d1e4211bb18)
 *Abb. 1: fertiges Puzzel*
