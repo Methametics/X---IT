@@ -13,7 +13,8 @@ Für die inneren Rätselboxen (die Boxen, die die Rätsel enthalten) könnt ihr 
 - evtl. Klebfolie zur Gestaltung der Box
 
 # Materialien für die inneren Rätselboxen:
-- 1x passende Rätselbox
+- 1 passende Rätselbox
+- (für Rätsel 1: 1 Papier und 1 Büroklammer um die Rätselkarten mit einer Art Papiertasche an die Außenbox zu befestigen)
 - 1 Rätsellogo
 - 2 Aufsatz Vorhängeschloss
 - 1 Zahlenschloss mit 3 Ziffern, außer:
@@ -24,5 +25,6 @@ Für die inneren Rätselboxen (die Boxen, die die Rätsel enthalten) könnt ihr 
 - Flüssigkleber (Bastelkleber)
 - Heißkleber (zum Kleben der Aufsätze)
 
-# Extras
-Feedbackbogen
+# Extras zur potentiellen Weiterentwicklung der Rätsel
+Feedbackbogen (ausfüllbares Dokument, sowie unsere Feedbackauswertung, die bei der Rätselentwicklung Einfluss genommen haben)
+Karten-Vorlage-PowerPoint-Datei um die Selbstgestaltung von Rätselkarten zu ermöglichen
