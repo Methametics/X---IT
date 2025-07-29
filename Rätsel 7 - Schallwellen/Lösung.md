@@ -4,13 +4,12 @@ Diese Datei enthält die vollständige Lösung zur Zuordnung der Körper und Kur
 
 ---
 
-Langsamster Körper = 5
-Schnellster Körper = 12
-Mittlerer Körper = 4
-
+Nur der blaue und grüne Graph heben sich auf. Folglich benötigt man die Rätselscheiben mit dem blauen und grünen Punkt.
 
 ## 🔢 Finaler Zahlencode
 
-🎯 **`5  -  12  -  4`**
+🎯 Grüne Scheibe: 82
+🎯 Blaue Scheibe: 68
 
+Grün + Blau = 8268
 ---
