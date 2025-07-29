@@ -1,6 +1,6 @@
-# 🕰️ Rätsel 7 – Uhrwerk
+# Rätsel 8 – Uhrwerk
 
-## 🔍 Ziel des Rätsels
+## Ziel des Rätsels
 
 Das Ziel dieses Rätsels ist es, ein echtes mechanisches Uhrwerk begreifbar zu machen. Die Spielenden erleben an einem voll funktionsfähigen 3D-gedruckten Modell, wie ein sogenannter *Escapement Mechanism* (Hemmwerk) funktioniert – ein zentraler Bestandteil jeder mechanischen Uhr. Dabei geht es darum, durch das richtige Einstellen von Trägheitsmomenteine kontrollierte Schwingung zu erzeugen und so mechanische Zeit sichtbar zu machen. Das Uhrwerk „tickt“ nur, wenn alle Bedingungen stimmen.
 
@@ -27,7 +27,7 @@ Ein Uhrwerk ist ein komplexer und geheimnisvoller Mechanismus aus vielen kleinen
 
 ---
 
-## 🎯 Didaktischer Hintergrund
+## Didaktischer Hintergrund
 
 - Trägheitsmoment und Rotationsbewegung (Swiss Lever)
 - Pendelgesetze: $T = 2\pi\sqrt{l/g}$ (Pendelversion)
@@ -36,20 +36,20 @@ Ein Uhrwerk ist ein komplexer und geheimnisvoller Mechanismus aus vielen kleinen
 
 ---
 
-## 📦 Inhalte im Ordner
+## Inhalte im Ordner
 
 ```plaintext
-Rätsel 7 - Uhrwerk/
+Rätsel 8 - Uhrwerk/
 ├── README.md
 └── material/
-    ├── storykarte.pdf
-    ├── lösungskarte.pdf
+    ├── Aufkleber Box.pdf
+    ├── Rätselkarte.pdf
+    ├── Storykarte.pdf
+    ├── Lösungskarte.pdf
     ├── stl/
-    │   ├── escapement_wheel.stl
-    │   ├── balance_wheel.stl
-    │   └── rahmen.stl
+    │   └── ...
     └── step/
-        └── escapement_wheel.step
+        └── ...
 ```
 ---
 
@@ -144,10 +144,24 @@ Rätsel 7 - Uhrwerk/
 3. Drucke die Bauteile aus dem Ordner `material/stl` mit den oben genannten Druckeinstellungen. Achte darauf, dass du die Federn und das Schwungrad aus PETG, PCTG oder PLA+ druckst, um eine höhere Flexibilität und Haltbarkeit zu gewährleisten. PLA geht zur Not auch, aber evtl. halten die Federn nicht lange.
 4. Überprüfe die Bauteile auf Passgenauigkeit und entferne ggf. Stützmaterial und entgrate die Kanten. Eventuell musst du die Löcher noch nachbohren, falls sie zu eng sind. Am besten streichst du die Bauteile in deiner Materialliste ab, damit du den Überblick behältst.
 5. Die Ziffern auf dem GearTrain sind noch nicht so gut zu lesen. Jetzt kannst du sie mit Acrylfarbe anmalen. Wenn du willst, kannst du auch den Marker anmalen, sodass er sich besser abhebt. Lass die Farbe gut trocknen, bevor du weiter machst.
-6. Jetzt kannst du alles zusammenbauen. Folge dazu der Abbildung oder den Explosionszeichnungen auf [Thingiverse](https://www.thingiverse.com/thing:3364860). Acht darauf, dass du die Schrauben nicht zu fest anziehst, damit die Bauteile sich noch bewegen können.
-7. Jetzt kannst du das Uhrwerk auf die Holzplatte schrauben. Damit stabilisierst du es und verhinderst, dass die Zahnräder springen. Außerdem kannst du den Abstand zwischen dem *Escapement Wheel* und dem *Pallet Fork* einstellen, indem du Papier unter das Uhrwerk schiebst.
+6. Jetzt kannst du alles zusammenbauen. Folge dazu der Abbildung oder den Explosionszeichnungen auf [Thingiverse](https://www.thingiverse.com/thing:3364860). Achte darauf, dass du die Schrauben nicht zu fest anziehst, damit die Bauteile sich noch bewegen können.
+7. Jetzt kannst du das Uhrwerk auf die Holzplatte schrauben. Damit stabilisierst du es und verhinderst, dass die Zahnräder springen. Außerdem kannst du den Abstand zwischen dem *Escapement Wheel* und dem *Pallet Fork* einstellen, indem du Papier unter das Uhrwerk schiebst und mit etwas Heißkleber fixierst. In unserem Fall waren etwa 8 Blätter Papier nötig, damit das Uhrwerk mit dem mittleren Schwungrad funktioniert.
+8. Sobald das Uhrwerk mit dem mittleren Schwungrad funktioniert, kannst du das Zahnrad mit den Ziffern auf die rote Startposition stellen, die Feder aufziehen und alle zwei Sekunden die Werte ablesen. Daraus ergibt sich die Lösung des Rätsels, die du auf der Lösungskarte notierst und in der Cryptex einstellst. Es kann sein, dass deine Werte leicht von den hier genannten abweichen, da die Federn nicht immer gleich sind. Das ist aber kein Problem, solange du die richtigen Werte für die Lösung verwendest.
 
-Der Zusammenbau des Uhrwerks richtet sich nach der Anleitung auf [Thingiverse](https://www.thingiverse.com/thing:3364860). 
+Der Zusammenbau des Uhrwerks richtet sich größtenteils nach der Anleitung auf [Thingiverse](https://www.thingiverse.com/thing:3364860). Hier ist eine Übersicht der Änderungen, die wir vorgenommen haben:
+- Unterlegscheiben nur noch an beweglichen Teilen
+- 20 mm statt 16 mm Schrauben für Brackets
+- BarrelRatchet entfernt und SpringFrameBack angepasst
+- GearTrain angepasst, damit EscapeWheel nicht gegen Sicherungsmutter stößt
+- Zahlen auf GearTrain hinzugefügt, Marker hinzugefügt
+- WindingStem verlängert
+- TrainFrameBack und TrainFrameFront angepasst
+- optionales EscapeWheel mit Kugellager hinzugefügt
+- BalanceFrameFront angepasst
+- PalletFork mit Fasen versehen
+- Loch im ImpactPinHousing vergrößert, um Reibung zu verringern
+- Knob für Zusammenbau ohne Werkzeug hinzugefügt
+- BalanceHeavy und BalanceLight hinzugefügt, um Trägheitsmoment zu variieren
 
 
 ## Credits
