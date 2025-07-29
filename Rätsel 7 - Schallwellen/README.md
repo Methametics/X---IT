@@ -1,18 +1,14 @@
-# Aufbauanleitung – Rätsel mit rollenden Körpern
+# Aufbauanleitung – Schallwellenrätsel
 
 ### Physikalische Idee (für Lehrkräfte / Betreuende)
 
 
-Die Kernidee dieses Rätsels beruht auf einem grundlegenden Konzept der klassischen Mechanik:
+Das Prinzip dieses Rätsels ist die Interferenz von Schallwellen:
 
- **Körper mit gleicher Masse und gleichem Radius, aber unterschiedlicher Massenverteilung** rollen unterschiedlich schnell eine geneigte Ebene hinunter – allein aufgrund ihres unterschiedlichen **Trägheitsmoments**.
+ **Die Überlagerungen von Schallwellen ist eine simple Summe.** Diese Superposition bezeichnet man als Interferenz. Dabei unterscheidet man zwei Fälle: **destruktive Interferenz** und **konstruktive Interferenz**.
 
-- Körper mit der **Masse nahe dem Zentrum** (kleines Trägheitsmoment) rollen schneller.  
-- Körper mit der **Masse weiter außen** (großes Trägheitsmoment) rollen langsamer.
 
-Die Spieler*innen beobachten den Versuch und erhalten ein jeweils ein **Blatt mit v(t)- und a(t)-Diagrammen**.  
-Ziel ist es, den passenden Bewegungsverlauf zu jedem Körper zuzuordnen.
-
+Die Spieler*innen sollen mit dem Gedanken der destruktiven Interfernz das Puzzle lösen. Ausgehend von den Graphen im Puzzle, kann man daraus ableiten, welche Rätselscheiben zu lösen sind. Dabei ist Spielreihenfolge essentiell, um das Rätsel effizient durchzuspielen. 
 
 ---
 
@@ -22,27 +18,27 @@ Dieses Rätsel bringt das Thema anschaulich näher und eignet sich dadurch ideal
 
 **Fachlicher Mehrwert:**
 
--  *Physik*: Trägheitsmoment, Energieerhaltung, Rotation vs. Translation  
--  *Mathematik*: Steigungen in v(t) und a(t), Proportionalitäten  
--  *Didaktik*: Hypothesenbildung, Diagramm-Interpretation, handlungsorientiertes Lernen
+-  *Physik*: Destruktive Interferenz, Frequenz, Amplitude, Wellenlänge  
+-  *Mathematik*: Superposition,   
+-  *Didaktik*: Diagramm-Interpretation
 
 ---
 ##  Schwierigkeitsgrad
 
 **★★★☆☆** (3/5)
 
-- Keine Vorkenntnisse nötig, aber grundlegendes physikalisches Verständnis hilfreich  
+- Keine Vorkenntnisse nötig, aber man muss einen kühlen Kopf bewahren  
 
-## ✅ Checkliste – Benötigte Materialien
-- [ ] Drei 3D-gedruckte Zylinder:  
-  ‣ Vollzylinder  
-  ‣ Hohlzylinder  
-  ‣ Mehreckiger Zylinder  
-- [ ] Reis und Salz zum Befüllen  
-- [ ]  Feinwaage 
-- [ ] Holzrampe (ca. 120 cm, 15–20° geneigt)  oder ähnliches
-- [ ] Klebeband (als Startlinie)  
-- [ ] Ausdrucke der Diagramme / Arbeitsblätter  
+## ✅ Checkliste – Benötigte Materialien zum Bauen
+- [ ] Korkplatte 15cm x 15cm   
+- [ ] Laminiergerät  
+- [ ] Drucker 
+- [ ] Schere/Schneidemaschine
+- [ ] Seitenschneider
+- [ ] Nägel
+## ✅ Checkliste – Benötigte Materialien zum Spielen
+- [ ] Folienstifte/Filzstifte
+- [ ] Wasser/Alkohol 
 
 ---
 
