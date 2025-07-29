@@ -171,9 +171,7 @@ Includes:
 
 
 ## ♿️ Accessibility & Gender Inclusivity
-Wir haben versucht **barrierefreie Spielbarkeit** umzusetzen, doch momentan können wir noch keine vollständig barriefreie Erfahrung bieten. Wir haben eine möglichst **klare Struktur** umgesetzt und alle Karten mit **hohem Kontrast** designed und in **verständlicher Sprache* geschrieben.
 
-Außerdem haben wir auf die Verwendung von **geschlechtergerechter Sprache** und heben **FLINTA*-Personen** aus der Wissenschaftsgeschichte explizit hervor.
 
 We've tried to implement an **accessible playability**, but currently, we cannot over a fully accessible experience. So we focussed on a **clear structure** anmd designed all our playing cards with **high contrast** and wrote the text in **comprehensible language**.
 
@@ -205,4 +203,7 @@ Supervisors:
 - M. Sc. Narges Poursangari (Technical University Berlin)
 - M. Sc. Yating Ou (Technical University Berlin)
 
+[![License: CC BY‑NC‑SA 4.0](https://img.shields.io/badge/License‑CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under the [Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
