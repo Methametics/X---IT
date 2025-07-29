@@ -57,7 +57,7 @@ Wenn man alle nummerierten Puzzleteile vor sich liegen hat, kann man sich darum 
 
 Man kann sich etwas Mühe ersparen in dem man nicht versucht die Puzzlestücke in einer DIN A4 Folie sondern in einer kleineren Folie zu laminieren. Außerdem sollte man darauf achten immer **genug Platz zwischen den Puzzlestücken zu lassen**. Es ist empfehlenswert in einer DIN A4 Folie 7 Puzzlestücke in der Länge und 4 Puzzlestücke in der Breite zu laminieren. 
 
-Man sollte stets ruhig und achtsam arbeiten, um genug PLatz zwischen den Puzzlestücke geährleisten zu können, denn das Zurechtschneiden des Ausdrucks ist sehr zeitintensiv! 
+Man sollte stets ruhig und achtsam arbeiten, um genug PLatz zwischen den Puzzlestücke gewährleisten zu können, denn das Zurechtschneiden des Ausdrucks ist sehr zeitintensiv! 
 
 -  ### 1.3 Nägel
 Je nach Plattendicke, benötigt **Nägel** unterschiedlicher Länge. Allerdings ist ein wichtiges Kriterium, dass die Nägelköpfe so klein wie möglich sind. Im Fall, dass die Nägel zu lang sind, kann man sie mit einem **Seitenschneider** zurechtschneiden. Letzlich muss man alle Puzzlestücke in der richtigen Reihenfolge auf das Brett nageln. Dafür benötigt man den **Hammer**.
@@ -67,15 +67,11 @@ Je nach Plattendicke, benötigt **Nägel** unterschiedlicher Länge. Allerdings 
 
 ---
 
-### 2. Zylinder befüllen & abwiegen
-Nach dem Druck werden die Zylinder mit haushaltsüblichen Materialien befüllt. Ziel ist es, das Gewicht der Körper exakt anzugleichen (Zielwert: ca. 90 g), um äußere Einflüsse auf das Rollverhalten auszuschließen.
-Das Befüllen erfolgt in kleinen Schritten unter Verwendung einer Feinwaage. Jeder Zylinder sollte nach dem Verschließen mit Deckel gewogen werden.
-Besonders beim Hohlzylinder ist das Volumen begrenzt.  Da Reis eine geringere Dichte besitzt als Salz, kann er allein das Zielgewicht nicht erreichen.  
-**Lösung:** Mischverhältnis aus Salz (dicht) und Reis (voluminös) verwenden.
+### 2. Rätselscheiben
+Die vorgefertigten Rätselscheiben liegen im Materialordner unter dem Namen **Rätselscheiben.pdf**. Jede einzelne Scheibe muss ausgeschnitten und laminiert werden.
 
-![IMG_8169](https://github.com/user-attachments/assets/e29e621d-2e0d-416e-9490-bcc43098b8b2)
-
-*Abb. 2: Geöffnete Zylinder mit Deckeln zur Befüllung*
+![Image](https://github.com/user-attachments/assets/954c552a-27de-48ca-805e-ebaae7dea114)
+*Abb. 2: Ausgeschnittene und laminierte Rätselscheibe*
 
 ![20250603_134236](https://github.com/user-attachments/assets/1f8cd1c4-b72b-4d94-af2c-3edaed4d1233)
 *Abb. 3: Abwiegen eines Zylinders mit digitaler Feinwaage*
