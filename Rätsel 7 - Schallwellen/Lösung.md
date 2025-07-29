@@ -12,4 +12,4 @@ Nur der blaue und grüne Graph heben sich auf. Folglich benötigt man die Rätse
 🎯 Blaue Scheibe: 68
 
 Grün + Blau = 8268
----
+
