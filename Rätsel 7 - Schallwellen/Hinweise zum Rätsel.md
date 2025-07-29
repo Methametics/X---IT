@@ -38,6 +38,7 @@ Zwei Blockreihen müssen mindestens einen freien Block Abstand einhalten.
 
 Versucht 2 Zahlen auf einem der korrekt gelösten Rätselscheiben abzulesen. Achtet darauf, dass die Ausrichtung der Scheibe vom Pfeil abhängt. Dreht die Scheibe solange bis, der Pfeil zu euch zeigt.
 
-<img width="327" height="315" alt="Image" src="https://github.com/user-attachments/assets/2f751aa3-261a-4fad-ab43-1329a40e13d3" />
+<img width="327" height="315" alt="Image" src="https://github.com/user-attachments/assets/2f751aa3-261a-4fad-ab43-1329a40e13d3" /> <img width="573" height="84" alt="Image" src="https://github.com/user-attachments/assets/e11ca49e-6182-4ebe-97b2-550b26145331" />
+
 
 
