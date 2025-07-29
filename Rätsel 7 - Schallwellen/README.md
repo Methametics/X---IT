@@ -8,7 +8,7 @@ Das Prinzip dieses Rätsels ist die Interferenz von Schallwellen:
  **Die Überlagerungen von Schallwellen ist eine simple Summe.** Diese Superposition bezeichnet man als Interferenz. Dabei unterscheidet man zwei Fälle: **destruktive Interferenz** und **konstruktive Interferenz**.
 
 
-Die Spieler*innen sollen mit dem Gedanken der destruktiven Interfernz das Puzzle lösen. Ausgehend von den Graphen im Puzzle, kann man daraus ableiten, welche Rätselscheiben zu lösen sind. Dabei ist Spielreihenfolge essentiell, um das Rätsel effizient durchzuspielen. 
+Die Spieler*innen sollen mit dem Gedanken der destruktiven Interfernz das Puzzle lösen. Ausgehend von den Graphen im Puzzle, kann man daraus ableiten, welche Rätselscheiben zu lösen sind. Dabei ist die Spielreihenfolge essentiell, um das Rätsel effizient durchzuspielen. 
 
 ---
 
