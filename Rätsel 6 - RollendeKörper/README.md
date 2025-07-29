@@ -51,9 +51,7 @@ Dieses Rätsel bringt das Thema anschaulich näher und eignet sich dadurch ideal
 ### 1. Zylinder vorbereiten (3D-Druck)
 
 Die Körper wurden mit CAD konstruiert und können selbstständig ausgedruckt werden.  
-Die STL-Dateien findest du im selben GitHub-Repository:
-
- **[STL-Dateien auf GitHub](https://github.com/Methametics/Wissenschaftskommunikation/tree/main/R%C3%A4tsel%206%20-%20RollendeK%C3%B6rper/Material/STL)**
+Die STL-Dateien findest du im selben GitHub-Repository.
 
 ![WhatsApp Bild 2025-05-27 um 21 50 36_f3821b60](https://github.com/user-attachments/assets/1e1deac9-76a4-4fa8-9584-9b71ed4be047)
 
