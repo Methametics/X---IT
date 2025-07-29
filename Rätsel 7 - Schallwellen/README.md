@@ -73,31 +73,5 @@ Die vorgefertigten Rätselscheiben liegen im Materialordner unter dem Namen **R�
 ![Image](https://github.com/user-attachments/assets/954c552a-27de-48ca-805e-ebaae7dea114)
 *Abb. 2: Ausgeschnittene und laminierte Rätselscheibe*
 
-![20250603_134236](https://github.com/user-attachments/assets/1f8cd1c4-b72b-4d94-af2c-3edaed4d1233)
-*Abb. 3: Abwiegen eines Zylinders mit digitaler Feinwaage*
-
----
-
-### 3. Rollstrecke aufbauen
-Für das Experiment wird eine geneigte Rampe verwendet, auf der die Zylinder frei abrollen können.
-
-Die Rampe sollte folgende Anforderungen erfüllen:
-
-- **Länge**: ca. 120 cm  
-- **Neigung**: 15–20°  
-- **Oberfläche**: glatt, aber nicht rutschig  
-- **Startlinie**: Klebeband o. Ä. aufkleben
-
-### Alternative Möglichkeit:
-
-Auch ein normaler **Tisch** kann als Rollfläche genutzt werden.  
-Einfach an einer Seite mit z. B. Holzklötzen unterlegen, um die nötige Neigung zu erzeugen.
-
- ![20250705_124217](https://github.com/user-attachments/assets/b7b91df1-62b9-4281-8157-845c88730865)
-
-*Abb. 4: Zusammengeklappte Holzrampe*
-
----
-
 
 
