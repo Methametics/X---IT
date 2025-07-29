@@ -52,7 +52,7 @@ Deshalb sollte man sich die Datei **Puzzle.odp** oder **Puzzle.pptx** näher ans
 ### 1.1 Puzzle
 Nachdem man sich auf eine Größe festgelegt hatte, kann man den Ausdruck bearbeiten. Dabei empfiehlt es sich mit einer Schneidemaschine zu arbeiten, denn so können die kleinen Puzzleteile am genausten ausgeschnitten werden.
 
-
+![Image](https://github.com/user-attachments/assets/f2697c8c-3fbb-4b27-a565-8d1e4211bb18)
 
 
  **[STL-Dateien auf GitHub](https://github.com/Methametics/Wissenschaftskommunikation/tree/main/R%C3%A4tsel%206%20-%20RollendeK%C3%B6rper/Material/STL)**
