@@ -47,7 +47,7 @@ Die Schwingungslehre ist omnipräsent. Ihre Wichtigkeit ist kritisch. Zum Beispi
 ### 1. Puzzle
 
 Die Größe des Puzzles ist frei wählbar. Allerdings muss man darauf achten, dass die Materialien, auf ein Korkbrett mit den Maßen 15cm x 15.5cm ausgelegt sind. 
-Deshalb sollte man sich die Datei **Puzzle.odp** oder **Puzzle.pptx** näher anschauen und die Größe selbstständig ändern. 
+Deshalb sollte man sich die Datei **Puzzle.odp** oder **Puzzle.pptx** näher anschauen, um die Größe selbstständig zu ändern. 
 
 ### 1.1 Puzzle
 Nachdem man sich auf eine Größe festgelegt hatte, kann man den Ausdruck bearbeiten. Dabei empfiehlt es sich mit einer Schneidemaschine zu arbeiten, denn so können die kleinen Puzzleteile am genausten ausgeschnitten werden. Der Ausdruck muss in ein 10x10 Gitter aufgeteilt werden, um das Puzzle in insgesamt 100 Teile zu unterteilen.  
