@@ -29,11 +29,11 @@ Zahlen am Rand müssen als Blockreihen in der darauffolgenden Spalte/Reihe darge
 ###  Hinweis 3: – Regel 2 für Rätselscheibe:
 
 Die Reihenfolge der Zahlen am Rand muss eingehalten werden.
-<img width="573" height="84" alt="Image" src="https://github.com/user-attachments/assets/e11ca49e-6182-4ebe-97b2-550b26145331" />
 
 ###  Hinweis 4:  – Regel 3 für Rätselscheibe:
 
 Zwei Blockreihen müssen mindestens einen freien Block Abstand einhalten.
+<img width="573" height="84" alt="Image" src="https://github.com/user-attachments/assets/e11ca49e-6182-4ebe-97b2-550b26145331" />
 
 ### Hinweis 5: – Leserichtung:
 
