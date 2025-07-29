@@ -50,7 +50,7 @@ Die Größe des Puzzles ist frei wählbar. Allerdings muss man darauf achten, da
 Deshalb sollte man sich die Datei **Puzzle.odp** oder **Puzzle.pptx** näher anschauen und die Größe selbstständig ändern. 
 
 ### 1.1 Puzzle
-Nachdem man sich auf eine Größe festgelegt hatte, kann man den Ausdruck bearbeiten. Dabei empfiehlt es sich mit einer Schneidemaschine zu arbeiten, denn so können die kleinen Puzzleteile am genausten ausgeschnitten werden.
+Nachdem man sich auf eine Größe festgelegt hatte, kann man den Ausdruck bearbeiten. Dabei empfiehlt es sich mit einer Schneidemaschine zu arbeiten, denn so können die kleinen Puzzleteile am genausten ausgeschnitten werden. Der Ausdruck muss in ein 10x10 Gitter aufgeteilt werden, um das Puzzle in insgesamt 100 Teile zu unterteilen.  
 
 ![Image](https://github.com/user-attachments/assets/f2697c8c-3fbb-4b27-a565-8d1e4211bb18)
 
