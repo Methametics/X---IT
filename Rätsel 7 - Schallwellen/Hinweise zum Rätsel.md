@@ -1,4 +1,4 @@
-#  Hilfestellungen zum Rätsel „Rollende Körper“
+#  Hilfestellungen zum Rätsel „Schallwellen“
 
 Diese Seite gibt dir Hinweise, falls du beim Zuordnen der Körper und Kurven nicht weiterkommst.  
 Sie verrät dir NICHT die Lösung – sondern hilft dir mit Beobachtungstipps und Denkanstößen weiter.
@@ -7,52 +7,37 @@ Sie verrät dir NICHT die Lösung – sondern hilft dir mit Beobachtungstipps un
 
 ##  Allgemeiner Hinweis
 
-Du hast ein Rennen durchgeführt, bei dem drei Zylinder eine Rampe hinunterrollen.  
-Anhand deines Beobachtungsprotokolls sollst du nun herausfinden:
+Die Fragestellung "Welche der Schallwellen ergänzen sich zur Stille?" erfordert zwei Bezüge:
 
-- Welche **Beschleunigungskurve** gehört zu welchem Körper?
-- Welche **Geschwindigkeitskurve** gehört zu welchem Körper?
-
-Am Ende ergibt sich ein vierstelliger **Zahlencode**, den du durch die richtige Zuordnung herausfindest.
+- Wie interagieren Schallwellen miteinander? 
+- Was passiert wenn zwei Schallwellen überlagert werden?
+- Wie verhalten sich Schallwellen wenn es Still ist und wie wenn es Laut ist?
 
 ---
 
 
-###  Hinweis 1: zu den Farben der Linien
+###  Hinweis 1: zu den Farben der Graphen
 
-Die Farben der Linien sind **innerhalb der Diagramme konsistent**:
-
-- Eine **rote Linie** in **Diagramm A** gehört zur **roten Linie** in **Diagramm B**.
-- Eine **blaue Linie** in A gehört zur blauen Linie in B.
-- Und so weiter.
+Schaut euch die Graphen an. Zwei von denen treffen aufeinander und heben sich zu jedem Zeitpunkt auf. Welche Farbe haben sie?
 
 
-###  Hinweis 2: – Langsamster Körper:
+###  Hinweis 2: – Regel 1 für Rätselscheibe:
 
-> Seine **Beschleunigung** (Diagramm A) ist die **kleinste Nicht-Primzahl** unter den drei Werten.
-
-→ Schau dir alle Beschleunigungswerte an.  
-→ Streiche alle Primzahlen.  
-(Eine **Primzahl** ist eine Zahl, die **nur durch 1 und sich selbst** teilbar ist.)
-
-→ Der kleinste verbleibende Wert gehört zum langsamsten Körper.
+Zahlen am Rand müssen als Blockreihen in der darauffolgenden Spalte/Reihe dargestellt werden.
 
 
-###  Hinweis 3: – Schnellster Körper:
+###  Hinweis 3: – Regel 2 für Rätselscheibe:
 
-> Seine **Geschwindigkeit nach 2 Sekunden** (Diagramm B) ist **genau 2 Einheiten höher** als die Beschleunigung des langsamsten Körpers.
+Die Reihenfolge der Zahlen am Rand muss eingehalten werden.
 
-→ Wenn beispielsweise der langsamste Körper z. B. eine Beschleunigung von 3 hat,  
-→ dann hat der schnellste Körper eine Endgeschwindigkeit von 10.
+###  Hinweis 4:  – Regel 3 für Rätselscheibe:
+
+Zwei Blockreihen müssen mindestens einen freien Block Abstand einhalten.
+
+### Hinweis 5: – Leserichtung:
+
+Versucht 2 Zahlen auf einem der korrekt gelösten Rätselscheiben abzulesen. Achtet darauf, dass die Ausrichtung der Scheibe vom Pfeil abhängt. Dreht die Scheibe solange bis, der Pfeil zu euch zeigt.
+
+<img width="327" height="315" alt="Image" src="https://github.com/user-attachments/assets/2f751aa3-261a-4fad-ab43-1329a40e13d3" />
 
 
-
-
-###  Hinweis 4:  – Mittlerer Körper:
-
-> Seine **Beschleunigung** ist das **arithmetische Mittel** (Durchschnitt)  
-> aus der Beschleunigung des langsamsten und des schnellsten Körpers.
-
-→ Beispiel:  
-Langsamster = 4, Schnellster = 8  
-→ Dann hat der mittlere Körper \( a = \frac{4 + 8}{2} = 6 \)
