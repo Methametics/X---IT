@@ -53,13 +53,7 @@ Deshalb sollte man sich die Datei **Puzzle.odp** oder **Puzzle.pptx** näher ans
 Nachdem man sich auf eine Größe festgelegt hatte, kann man den Ausdruck bearbeiten. Dabei empfiehlt es sich mit einer Schneidemaschine zu arbeiten, denn so können die kleinen Puzzleteile am genausten ausgeschnitten werden. Der Ausdruck muss in ein 10x10 Gitter aufgeteilt werden, um das Puzzle in insgesamt 100 Teile zu unterteilen.  
 
 ![Image](https://github.com/user-attachments/assets/f2697c8c-3fbb-4b27-a565-8d1e4211bb18)
-
-
- **[STL-Dateien auf GitHub](https://github.com/Methametics/Wissenschaftskommunikation/tree/main/R%C3%A4tsel%206%20-%20RollendeK%C3%B6rper/Material/STL)**
-
-![WhatsApp Bild 2025-05-27 um 21 50 36_f3821b60](https://github.com/user-attachments/assets/1e1deac9-76a4-4fa8-9584-9b71ed4be047)
-
-*Abb. 1: Digitale Konstruktion der drei Zylinder*
+*Abb. 1: fertiges Puzzel*
 
 ---
 
