@@ -86,7 +86,7 @@ Die benötigten Teile wurden mit CAD konstruiert. Die Dateien findest du im STL-
 
 ---
 
-## 🧠 Wissensvermittlung
+## Wissensvermittlung
 
 ### Direkt:
 - Nullstabregeln & deren Anwendung
