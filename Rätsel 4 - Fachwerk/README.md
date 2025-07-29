@@ -6,7 +6,7 @@
 
 Dieses Rätsel vermittelt spielerisch zentrale Konzepte aus der Statik und Mechanik – insbesondere aus dem Bereich der **Fachwerke**. Durch den Aufbau eines vereinfachten Fachwerks in Form einer Brücke erkennen die Spieler, welche Stäbe tatsächlich Kräfte übertragen (tragende Stäbe) und welche rein konstruktiv vorhanden sind (Nullstäbe).
 
-Dabei steht das **Erkennen und Anwenden der Nullstabregeln** im Fokus. Die Spieler*innen kombinieren ihr physikalisches und logisches Verständnis, um durch gezieltes Testen und Beobachten eine Lösung zu finden, mit der sich ein Schloss öffnen lässt.
+Dabei steht das **Erkennen und Anwenden der Nullstabregeln** im Fokus. Die Spieler kombinieren ihr physikalisches und logisches Verständnis, um durch gezieltes Testen und Beobachten eine Lösung zu finden, mit der sich ein Schloss öffnen lässt.
 
 ---
 
